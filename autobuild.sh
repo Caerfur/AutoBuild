@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#github:https://github.com/Caerfur/AutoBuild
+#autor:caerfur
+#2016/7/25
+
 #configuration for iOS build setting
 
 CODE_SIGN_IDENTITY="iPhone Distribution: xxxxxxxx Co. Ltd (xxxxxxxxx)" #证书
